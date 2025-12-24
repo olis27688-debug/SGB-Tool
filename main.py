@@ -12,7 +12,7 @@ def update_gui(event):
             infos = f"Kunde: {zeile[5]}\nLeistung: {zeile[2]}\nSchaltgruppe: {zeile[4]}"
             info_label.config(text=infos)
             
-            # 2. Bild laden (über die Library!)
+            # 2. Bild laden (über die Library!) Vorschau
             img = sgb.lade_bild(zeile[4])
             
             if img:
@@ -25,11 +25,11 @@ def update_gui(event):
 def button_pdf_klick():
     auswahl = dropdown.get()
     if auswahl == "Auftrag wählen" or auswahl == "":
-        return
+        return messagebox.showwarning("","Auftrag zuerst auswählen") 
     
-    # Daten suchen
-    gewaehlte_daten = None
-    for zeile in alle_daten:
+    # Daten suchen //BUGFIX: PDF wird generiert bei "Auftragsnummer"(leeres PDF) --> Mit Slicing [1:] behoben
+    gewaehlte_daten = []
+    for zeile in alle_daten[1:]:
         if zeile[0] == auswahl:
             gewaehlte_daten = zeile
             break
@@ -38,6 +38,8 @@ def button_pdf_klick():
     if gewaehlte_daten:
         dateiname = sgb.generiere_pdf(gewaehlte_daten)
         messagebox.showinfo("Erfolg", f"PDF erstellt:\n{dateiname}")
+    else:
+        messagebox.showwarning("","Auftrag zuerst auswählen") 
 
 # --- HAUPTPROGRAMM ---
 app = tk.Tk()
@@ -51,7 +53,7 @@ sn_only = [z[0] for z in alle_daten]
 # UI Elemente
 tk.Label(app, text="Produktionsauftrag wählen:", font=("Arial", 14, "bold")).pack(pady=10)
 
-dropdown = ttk.Combobox(app, values=sn_only[1:], width=30)
+dropdown = ttk.Combobox(app, values=sn_only[:], width=30)
 dropdown.pack()
 dropdown.set("Auftrag wählen")
 dropdown.bind("<<ComboboxSelected>>", update_gui)
@@ -59,7 +61,7 @@ dropdown.bind("<<ComboboxSelected>>", update_gui)
 info_label = tk.Label(app, text="---", font=("Arial", 11))
 info_label.pack(pady=10)
 
-bild_label = tk.Label(app)
+bild_label = tk.Label(app, text="Vorschau")
 bild_label.pack(pady=5)
 
 # PDF Button
