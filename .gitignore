@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+pdf_druck/
+*.pdf
+.DS_Store
+.spyderproject
+.vscode/
+.idea/
