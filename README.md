@@ -4,7 +4,7 @@ Dieses Projekt habe ich als Arbeitsprobe für meine Bewerbung um die Bachelorarb
 
 Es handelt sich um einen funktionsfähigen Software-Prototypen, der zeigt, wie ich die Anforderungen der Stellenanzeige (Python, GUI, Modularität) technisch umsetzen würde.
 
-💡 Idee & Funktion
+Idee & Funktion
 
 Das Programm simuliert den Prozess der Schaltschild-Erstellung:
 
@@ -16,7 +16,7 @@ Visualisierung: Das Tool zeigt automatisch die passenden technischen Daten und d
 
 Generierung: Auf Knopfdruck wird ein technisches Typenschild als PDF erstellt.
 
-🛠 Aufbau des Codes
+Aufbau des Codes
 
 Um die geforderte "Baustein-Bibliothek" abzubilden, habe ich den Code in Frontend und Backend getrennt:
 
@@ -26,7 +26,7 @@ SGB_library.py: Enthält die gesamte Logik (Daten laden, Bilder verarbeiten, PDF
 
 sgb_production_data.csv: Ein Datensatz, den ich generiert habe, um das Gießharz-Portfolio (z.B. Dyn5, 20 MVA) zu simulieren.
 
-🚀 Nutzung
+Nutzung
 
 Voraussetzung ist eine Python-Installation. Zusätzlich werden folgende Pakete benötigt:
 
