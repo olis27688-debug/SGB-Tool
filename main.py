@@ -38,11 +38,11 @@ def zeige_datensatz(zeile):
 
         # Daten auspacken: [Auftrag, Typ, Leistung, Spannung, Gruppe, Kunde]
         infos = (
-            f"Kunde:       {zeile[5]}\n"
-            f"Typ:         {zeile[1]}\n"
-            f"Leistung:    {zeile[2]}\n"
-            f"Spannung:    {zeile[3]}\n"
-            f"Schaltgruppe:{zeile[4]}"
+            f"Kunde: {zeile[5]}\n"
+            f"Typ: {zeile[1]}\n"
+            f"Leistung:  {zeile[2]}\n"
+            f"Spannung:  {zeile[3]}\n"
+            f"Schaltgruppe:  {zeile[4]}"
         )
 
         # Text Update

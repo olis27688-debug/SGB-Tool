@@ -85,7 +85,7 @@ def lade_bild(name):
         print(f"---> Suche Bild: '{pfad}'")
         try:
             original = Image.open(pfad)
-            original.thumbnail((600, 200))  # Proportionales Skalieren
+            original.thumbnail((500, 300))  # Proportionales Skalieren
             bild = ImageTk.PhotoImage(original)
             return bild
         except Exception:
