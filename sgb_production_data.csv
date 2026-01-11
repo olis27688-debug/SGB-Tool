@@ -1,101 +1,101 @@
 Auftragsnummer,Typ,Leistung_MVA,Spannung_Pri_kV,Schaltgruppe,Kunde
-SGB-2025-001,SGB Safe (Rechenzentrum),25.0 MVA,30 kV,Yyn0,Google Rechenzentrum
-SGB-2025-002,SGB Gießharz-Trafo DTTH (Klimaklasse C2),15.0 MVA,36 kV,YNd11,Google Rechenzentrum
-SGB-2025-003,SGB Safe (Rechenzentrum),0.4 MVA,30 kV,Yyn0,Deutsche Bahn InfraGO
-SGB-2025-004,SGB Safe (Rechenzentrum),2.5 MVA,30 kV,Dyn5,Deutsche Bahn InfraGO
-SGB-2025-005,SGB Gießharz-Trafo DTTH,25.0 MVA,36 kV,Dyn11,Google Rechenzentrum
-SGB-2025-006,SGB Safe (Rechenzentrum),20.0 MVA,20 kV,Yyn0,Google Rechenzentrum
-SGB-2025-007,SGB Gießharz-Trafo (E3 - Wind),15.0 MVA,36 kV,Dyn11,Stadtwerke München
-SGB-2025-008,SGB Gießharz-Trafo DTTH,20.0 MVA,10 kV,Yyn0,Tesla Gigafactory Berlin
-SGB-2025-009,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,10 kV,Dd0,BASF Ludwigshafen
-SGB-2025-010,SGB Gießharz-Trafo (E3 - Wind),1.0 MVA,15 kV,Dd0,Stadtwerke München
-SGB-2025-011,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,15 kV,Yyn0,Flughafen Frankfurt
-SGB-2025-012,SGB Safe (Rechenzentrum),25.0 MVA,15 kV,Dyn11,Audi Ingolstadt
-SGB-2025-013,SGB Gießharz-Trafo (E3 - Wind),15.0 MVA,10 kV,YNd11,Audi Ingolstadt
-SGB-2025-014,SGB Safe (Rechenzentrum),0.4 MVA,15 kV,Dyn11,BMW Werk Regensburg
-SGB-2025-015,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,36 kV,Dyn11,BASF Ludwigshafen
-SGB-2025-016,SGB Gießharz-Trafo (E3 - Wind),10.0 MVA,20 kV,Dd0,Tesla Gigafactory Berlin
-SGB-2025-017,SGB Safe (Rechenzentrum),1.0 MVA,36 kV,Dyn11,Google Rechenzentrum
-SGB-2025-018,SGB Gießharz-Trafo (E3 - Wind),6.3 MVA,30 kV,Dd0,Intel Magdeburg
-SGB-2025-019,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,36 kV,YNd11,BASF Ludwigshafen
-SGB-2025-020,SGB Gießharz-Trafo (E3 - Wind),2.5 MVA,20 kV,YNd11,Flughafen Frankfurt
-SGB-2025-021,SGB Gießharz-Trafo (E3 - Wind),6.3 MVA,36 kV,Dd0,BMW Werk Regensburg
-SGB-2025-022,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,10 kV,Dyn11,BMW Werk Regensburg
-SGB-2025-023,SGB Gießharz-Trafo DTTH,15.0 MVA,10 kV,Yyn0,BMW Werk Regensburg
-SGB-2025-024,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,20 kV,Yyn0,Deutsche Bahn InfraGO
-SGB-2025-025,SGB Safe (Rechenzentrum),15.0 MVA,20 kV,Dyn11,Audi Ingolstadt
-SGB-2025-026,SGB Safe (Rechenzentrum),0.63 MVA,10 kV,Dyn11,BASF Ludwigshafen
-SGB-2025-027,SGB Gießharz-Trafo DTTH,0.4 MVA,30 kV,YNd11,Audi Ingolstadt
-SGB-2025-028,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,10 kV,Dd0,Google Rechenzentrum
-SGB-2025-029,SGB Safe (Rechenzentrum),0.63 MVA,10 kV,Dyn5,BMW Werk Regensburg
-SGB-2025-030,SGB Gießharz-Trafo DTTH,25.0 MVA,10 kV,Dyn5,Intel Magdeburg
-SGB-2025-031,SGB Gießharz-Trafo DTTH,20.0 MVA,30 kV,Dyn11,Tesla Gigafactory Berlin
-SGB-2025-032,SGB Gießharz-Trafo DTTH,15.0 MVA,20 kV,Dd0,Stadtwerke München
-SGB-2025-033,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,20 kV,Yyn0,Deutsche Bahn InfraGO
-SGB-2025-034,SGB Gießharz-Trafo DTTH,25.0 MVA,15 kV,Dd0,Stadtwerke München
-SGB-2025-035,SGB Gießharz-Trafo DTTH (Klimaklasse C2),15.0 MVA,10 kV,Dyn11,Intel Magdeburg
-SGB-2025-036,SGB Gießharz-Trafo DTTH (Klimaklasse C2),1.0 MVA,20 kV,Yyn0,Deutsche Bahn InfraGO
-SGB-2025-037,SGB Gießharz-Trafo DTTH,2.5 MVA,20 kV,Dyn5,Intel Magdeburg
-SGB-2025-038,SGB Safe (Rechenzentrum),15.0 MVA,36 kV,YNd11,Tesla Gigafactory Berlin
-SGB-2025-039,SGB Gießharz-Trafo (E3 - Wind),2.5 MVA,20 kV,Dyn11,Stadtwerke München
-SGB-2025-040,SGB Safe (Rechenzentrum),0.63 MVA,10 kV,Dyn5,Deutsche Bahn InfraGO
-SGB-2025-041,SGB Safe (Rechenzentrum),0.4 MVA,30 kV,Dyn5,Flughafen Frankfurt
-SGB-2025-042,SGB Safe (Rechenzentrum),15.0 MVA,10 kV,Dyn5,Audi Ingolstadt
-SGB-2025-043,SGB Safe (Rechenzentrum),1.0 MVA,20 kV,Dyn5,BMW Werk Regensburg
-SGB-2025-044,SGB Gießharz-Trafo (E3 - Wind),25.0 MVA,10 kV,Dyn5,Intel Magdeburg
-SGB-2025-045,SGB Gießharz-Trafo DTTH,0.63 MVA,15 kV,Dd0,Google Rechenzentrum
-SGB-2025-046,SGB Gießharz-Trafo DTTH,0.63 MVA,30 kV,Dyn5,Tesla Gigafactory Berlin
-SGB-2025-047,SGB Gießharz-Trafo DTTH,6.3 MVA,10 kV,YNd11,Google Rechenzentrum
-SGB-2025-048,SGB Safe (Rechenzentrum),0.63 MVA,20 kV,Dyn11,Flughafen Frankfurt
-SGB-2025-049,SGB Safe (Rechenzentrum),20.0 MVA,20 kV,Dyn11,Deutsche Bahn InfraGO
-SGB-2025-050,SGB Gießharz-Trafo DTTH,6.3 MVA,20 kV,Dd0,Google Rechenzentrum
-SGB-2025-051,SGB Safe (Rechenzentrum),10.0 MVA,20 kV,Dyn5,Audi Ingolstadt
-SGB-2025-052,SGB Gießharz-Trafo (E3 - Wind),6.3 MVA,20 kV,Dyn11,Intel Magdeburg
-SGB-2025-053,SGB Safe (Rechenzentrum),10.0 MVA,10 kV,Dd0,Flughafen Frankfurt
-SGB-2025-054,SGB Safe (Rechenzentrum),2.5 MVA,15 kV,Yyn0,BMW Werk Regensburg
-SGB-2025-055,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,20 kV,Dd0,Stadtwerke München
-SGB-2025-056,SGB Gießharz-Trafo DTTH,0.63 MVA,36 kV,Dd0,Deutsche Bahn InfraGO
-SGB-2025-057,SGB Gießharz-Trafo DTTH (Klimaklasse C2),20.0 MVA,15 kV,Yyn0,Deutsche Bahn InfraGO
-SGB-2025-058,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,10 kV,Yyn0,Stadtwerke München
-SGB-2025-059,SGB Gießharz-Trafo (E3 - Wind),6.3 MVA,30 kV,YNd11,Audi Ingolstadt
-SGB-2025-060,SGB Gießharz-Trafo (E3 - Wind),20.0 MVA,30 kV,Yyn0,Google Rechenzentrum
-SGB-2025-061,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,30 kV,YNd11,Audi Ingolstadt
-SGB-2025-062,SGB Gießharz-Trafo (E3 - Wind),20.0 MVA,30 kV,Yyn0,BASF Ludwigshafen
-SGB-2025-063,SGB Gießharz-Trafo DTTH (Klimaklasse C2),6.3 MVA,20 kV,Yyn0,BMW Werk Regensburg
-SGB-2025-064,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,36 kV,Dyn11,Intel Magdeburg
-SGB-2025-065,SGB Safe (Rechenzentrum),2.5 MVA,36 kV,Yyn0,Audi Ingolstadt
-SGB-2025-066,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,15 kV,Dd0,Flughafen Frankfurt
-SGB-2025-067,SGB Gießharz-Trafo DTTH (Klimaklasse C2),25.0 MVA,30 kV,Dyn11,Intel Magdeburg
-SGB-2025-068,SGB Gießharz-Trafo DTTH,6.3 MVA,36 kV,Yyn0,Tesla Gigafactory Berlin
-SGB-2025-069,SGB Gießharz-Trafo DTTH,10.0 MVA,10 kV,YNd11,Audi Ingolstadt
-SGB-2025-070,SGB Gießharz-Trafo (E3 - Wind),6.3 MVA,10 kV,Yyn0,BMW Werk Regensburg
-SGB-2025-071,SGB Gießharz-Trafo (E3 - Wind),15.0 MVA,10 kV,YNd11,Tesla Gigafactory Berlin
-SGB-2025-072,SGB Gießharz-Trafo (E3 - Wind),1.0 MVA,36 kV,Dd0,Audi Ingolstadt
-SGB-2025-073,SGB Gießharz-Trafo (E3 - Wind),25.0 MVA,30 kV,YNd11,BASF Ludwigshafen
-SGB-2025-074,SGB Gießharz-Trafo DTTH (Klimaklasse C2),25.0 MVA,30 kV,Dd0,Google Rechenzentrum
-SGB-2025-075,SGB Gießharz-Trafo DTTH,20.0 MVA,20 kV,Dyn5,Intel Magdeburg
-SGB-2025-076,SGB Gießharz-Trafo DTTH,15.0 MVA,30 kV,Dyn5,Audi Ingolstadt
-SGB-2025-077,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,15 kV,Dyn11,BASF Ludwigshafen
-SGB-2025-078,SGB Gießharz-Trafo (E3 - Wind),25.0 MVA,36 kV,Yyn0,BMW Werk Regensburg
-SGB-2025-079,SGB Gießharz-Trafo DTTH,25.0 MVA,30 kV,Yyn0,Intel Magdeburg
-SGB-2025-080,SGB Gießharz-Trafo (E3 - Wind),2.5 MVA,30 kV,Dd0,Stadtwerke München
-SGB-2025-081,SGB Gießharz-Trafo (E3 - Wind),10.0 MVA,36 kV,Yyn0,Tesla Gigafactory Berlin
-SGB-2025-082,SGB Safe (Rechenzentrum),15.0 MVA,15 kV,Dd0,Deutsche Bahn InfraGO
-SGB-2025-083,SGB Gießharz-Trafo DTTH (Klimaklasse C2),20.0 MVA,15 kV,YNd11,Flughafen Frankfurt
-SGB-2025-084,SGB Gießharz-Trafo (E3 - Wind),15.0 MVA,10 kV,Dyn11,Deutsche Bahn InfraGO
-SGB-2025-085,SGB Safe (Rechenzentrum),0.63 MVA,20 kV,Dd0,Flughafen Frankfurt
-SGB-2025-086,SGB Safe (Rechenzentrum),10.0 MVA,36 kV,Dyn5,Stadtwerke München
-SGB-2025-087,SGB Gießharz-Trafo (E3 - Wind),20.0 MVA,30 kV,Dyn5,Flughafen Frankfurt
-SGB-2025-088,SGB Gießharz-Trafo DTTH,10.0 MVA,10 kV,Dd0,Tesla Gigafactory Berlin
-SGB-2025-089,SGB Gießharz-Trafo DTTH,1.0 MVA,15 kV,Dyn11,Deutsche Bahn InfraGO
-SGB-2025-090,SGB Safe (Rechenzentrum),15.0 MVA,30 kV,Yyn0,Stadtwerke München
-SGB-2025-091,SGB Safe (Rechenzentrum),15.0 MVA,20 kV,Yyn0,BMW Werk Regensburg
-SGB-2025-092,SGB Gießharz-Trafo DTTH,10.0 MVA,30 kV,Dyn11,Tesla Gigafactory Berlin
-SGB-2025-093,SGB Safe (Rechenzentrum),1.0 MVA,15 kV,Dyn5,Intel Magdeburg
-SGB-2025-094,SGB Gießharz-Trafo DTTH (Klimaklasse C2),20.0 MVA,20 kV,YNd11,Stadtwerke München
-SGB-2025-095,SGB Gießharz-Trafo DTTH,6.3 MVA,30 kV,Yyn0,Google Rechenzentrum
-SGB-2025-096,SGB Gießharz-Trafo DTTH,25.0 MVA,15 kV,Yyn0,Intel Magdeburg
-SGB-2025-097,SGB Safe (Rechenzentrum),1.0 MVA,36 kV,Dd0,BMW Werk Regensburg
-SGB-2025-098,SGB Gießharz-Trafo DTTH,10.0 MVA,10 kV,Dyn5,Intel Magdeburg
-SGB-2025-099,SGB Safe (Rechenzentrum),1.0 MVA,36 kV,Dd0,Google Rechenzentrum
-SGB-2025-100,SGB Gießharz-Trafo DTTH,0.63 MVA,20 kV,Dyn5,Stadtwerke München
+SGB-2025-001,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,30 kV,Dyn11,Tesla Gigafactory Berlin
+SGB-2025-002,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.4 MVA,10 kV,YNd11,Google Rechenzentrum
+SGB-2025-003,SGB Gießharz-Trafo DTTH,25.0 MVA,20 kV,Yyn0,Deutsche Bahn InfraGO
+SGB-2025-004,SGB Gießharz-Trafo DTTH,2.5 MVA,30 kV,Dyn5,BASF Ludwigshafen
+SGB-2025-005,SGB Gießharz-Trafo (E3 - Wind),25.0 MVA,30 kV,Dd0,Google Rechenzentrum
+SGB-2025-006,SGB Gießharz-Trafo DTTH (Klimaklasse C2),20.0 MVA,20 kV,Yyn0,BMW Werk Regensburg
+SGB-2025-007,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,36 kV,Yyn0,Audi Ingolstadt
+SGB-2025-008,SGB Gießharz-Trafo DTTH,25.0 MVA,30 kV,YNd11,Stadtwerke München
+SGB-2025-009,SGB Gießharz-Trafo DTTH,2.5 MVA,36 kV,YNd11,Intel Magdeburg
+SGB-2025-010,SGB Gießharz-Trafo DTTH,2.5 MVA,36 kV,Dyn11,BMW Werk Regensburg
+SGB-2025-011,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,10 kV,YNd11,BMW Werk Regensburg
+SGB-2025-012,SGB Safe (Rechenzentrum),2.5 MVA,20 kV,Dyn11,Flughafen Frankfurt
+SGB-2025-013,SGB Gießharz-Trafo (E3 - Wind),1.0 MVA,36 kV,Dyn11,BMW Werk Regensburg
+SGB-2025-014,SGB Gießharz-Trafo (E3 - Wind),10.0 MVA,20 kV,Dyn5,Audi Ingolstadt
+SGB-2025-015,SGB Gießharz-Trafo (E3 - Wind),2.5 MVA,20 kV,Dd0,Tesla Gigafactory Berlin
+SGB-2025-016,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.4 MVA,36 kV,Dyn11,Tesla Gigafactory Berlin
+SGB-2025-017,SGB Safe (Rechenzentrum),0.63 MVA,30 kV,YNd11,Audi Ingolstadt
+SGB-2025-018,SGB Safe (Rechenzentrum),10.0 MVA,36 kV,YNd11,Google Rechenzentrum
+SGB-2025-019,SGB Safe (Rechenzentrum),20.0 MVA,15 kV,Dd0,Audi Ingolstadt
+SGB-2025-020,SGB Gießharz-Trafo DTTH (Klimaklasse C2),6.3 MVA,20 kV,Yyn0,Google Rechenzentrum
+SGB-2025-021,SGB Gießharz-Trafo DTTH,0.4 MVA,30 kV,Dyn11,Deutsche Bahn InfraGO
+SGB-2025-022,SGB Gießharz-Trafo DTTH,6.3 MVA,36 kV,Yyn0,Stadtwerke München
+SGB-2025-023,SGB Gießharz-Trafo DTTH (Klimaklasse C2),15.0 MVA,10 kV,Dd0,Google Rechenzentrum
+SGB-2025-024,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,30 kV,Yyn0,Audi Ingolstadt
+SGB-2025-025,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,10 kV,Dyn11,BMW Werk Regensburg
+SGB-2025-026,SGB Safe (Rechenzentrum),6.3 MVA,30 kV,Dd0,Stadtwerke München
+SGB-2025-027,SGB Safe (Rechenzentrum),1.0 MVA,10 kV,Dyn5,BMW Werk Regensburg
+SGB-2025-028,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.4 MVA,36 kV,YNd11,Google Rechenzentrum
+SGB-2025-029,SGB Gießharz-Trafo DTTH,25.0 MVA,20 kV,YNd11,BMW Werk Regensburg
+SGB-2025-030,SGB Gießharz-Trafo DTTH,25.0 MVA,36 kV,Dyn11,Deutsche Bahn InfraGO
+SGB-2025-031,SGB Gießharz-Trafo DTTH,15.0 MVA,10 kV,Dd0,BMW Werk Regensburg
+SGB-2025-032,SGB Gießharz-Trafo (E3 - Wind),10.0 MVA,10 kV,Dd0,Intel Magdeburg
+SGB-2025-033,SGB Safe (Rechenzentrum),1.0 MVA,10 kV,Dyn5,BMW Werk Regensburg
+SGB-2025-034,SGB Safe (Rechenzentrum),25.0 MVA,20 kV,YNd11,BASF Ludwigshafen
+SGB-2025-035,SGB Gießharz-Trafo DTTH,25.0 MVA,15 kV,Yyn0,Intel Magdeburg
+SGB-2025-036,SGB Safe (Rechenzentrum),10.0 MVA,15 kV,Dd0,Intel Magdeburg
+SGB-2025-037,SGB Gießharz-Trafo DTTH (Klimaklasse C2),1.0 MVA,20 kV,Dyn5,Audi Ingolstadt
+SGB-2025-038,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,36 kV,Yyn0,Intel Magdeburg
+SGB-2025-039,SGB Safe (Rechenzentrum),0.63 MVA,20 kV,Yyn0,BASF Ludwigshafen
+SGB-2025-040,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,36 kV,Yyn0,Tesla Gigafactory Berlin
+SGB-2025-041,SGB Safe (Rechenzentrum),25.0 MVA,10 kV,Dyn11,Intel Magdeburg
+SGB-2025-042,SGB Gießharz-Trafo (E3 - Wind),15.0 MVA,15 kV,Dyn11,Stadtwerke München
+SGB-2025-043,SGB Gießharz-Trafo DTTH,1.0 MVA,10 kV,Dyn5,Tesla Gigafactory Berlin
+SGB-2025-044,SGB Gießharz-Trafo DTTH,15.0 MVA,30 kV,Yyn0,Flughafen Frankfurt
+SGB-2025-045,SGB Gießharz-Trafo DTTH,6.3 MVA,15 kV,YNd11,Flughafen Frankfurt
+SGB-2025-046,SGB Safe (Rechenzentrum),20.0 MVA,30 kV,Dyn11,Audi Ingolstadt
+SGB-2025-047,SGB Gießharz-Trafo DTTH (Klimaklasse C2),25.0 MVA,10 kV,Yyn0,Deutsche Bahn InfraGO
+SGB-2025-048,SGB Gießharz-Trafo DTTH (Klimaklasse C2),10.0 MVA,15 kV,YNd11,Audi Ingolstadt
+SGB-2025-049,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,10 kV,Dyn11,Flughafen Frankfurt
+SGB-2025-050,SGB Gießharz-Trafo DTTH (Klimaklasse C2),1.0 MVA,15 kV,Dyn11,Flughafen Frankfurt
+SGB-2025-051,SGB Gießharz-Trafo DTTH,6.3 MVA,36 kV,YNd11,Intel Magdeburg
+SGB-2025-052,SGB Gießharz-Trafo DTTH (Klimaklasse C2),1.0 MVA,30 kV,Dyn5,Deutsche Bahn InfraGO
+SGB-2025-053,SGB Gießharz-Trafo DTTH (Klimaklasse C2),6.3 MVA,30 kV,Dd0,Intel Magdeburg
+SGB-2025-054,SGB Gießharz-Trafo DTTH,0.4 MVA,30 kV,Yyn0,BASF Ludwigshafen
+SGB-2025-055,SGB Safe (Rechenzentrum),20.0 MVA,15 kV,YNd11,Audi Ingolstadt
+SGB-2025-056,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.4 MVA,30 kV,Dyn5,Deutsche Bahn InfraGO
+SGB-2025-057,SGB Gießharz-Trafo (E3 - Wind),25.0 MVA,30 kV,Dyn5,Stadtwerke München
+SGB-2025-058,SGB Safe (Rechenzentrum),10.0 MVA,20 kV,Dyn11,Stadtwerke München
+SGB-2025-059,SGB Safe (Rechenzentrum),10.0 MVA,10 kV,Yyn0,Google Rechenzentrum
+SGB-2025-060,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,36 kV,YNd11,Deutsche Bahn InfraGO
+SGB-2025-061,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,36 kV,Dyn11,Audi Ingolstadt
+SGB-2025-062,SGB Safe (Rechenzentrum),0.4 MVA,36 kV,Dyn5,BMW Werk Regensburg
+SGB-2025-063,SGB Safe (Rechenzentrum),20.0 MVA,20 kV,Yyn0,BMW Werk Regensburg
+SGB-2025-064,SGB Gießharz-Trafo DTTH,10.0 MVA,15 kV,Dyn11,BMW Werk Regensburg
+SGB-2025-065,SGB Gießharz-Trafo DTTH (Klimaklasse C2),6.3 MVA,10 kV,YNd11,Deutsche Bahn InfraGO
+SGB-2025-066,SGB Gießharz-Trafo DTTH (Klimaklasse C2),6.3 MVA,20 kV,Dd0,BASF Ludwigshafen
+SGB-2025-067,SGB Safe (Rechenzentrum),20.0 MVA,15 kV,Yyn0,Google Rechenzentrum
+SGB-2025-068,SGB Safe (Rechenzentrum),6.3 MVA,20 kV,Dyn5,Google Rechenzentrum
+SGB-2025-069,SGB Gießharz-Trafo DTTH,15.0 MVA,30 kV,Dyn11,Tesla Gigafactory Berlin
+SGB-2025-070,SGB Safe (Rechenzentrum),0.63 MVA,10 kV,YNd11,Tesla Gigafactory Berlin
+SGB-2025-071,SGB Gießharz-Trafo DTTH (Klimaklasse C2),20.0 MVA,10 kV,Yyn0,Audi Ingolstadt
+SGB-2025-072,SGB Gießharz-Trafo DTTH,25.0 MVA,36 kV,Yyn0,Intel Magdeburg
+SGB-2025-073,SGB Gießharz-Trafo (E3 - Wind),2.5 MVA,36 kV,YNd11,Intel Magdeburg
+SGB-2025-074,SGB Safe (Rechenzentrum),15.0 MVA,15 kV,YNd11,Google Rechenzentrum
+SGB-2025-075,SGB Gießharz-Trafo DTTH (Klimaklasse C2),1.0 MVA,30 kV,YNd11,Google Rechenzentrum
+SGB-2025-076,SGB Gießharz-Trafo (E3 - Wind),2.5 MVA,15 kV,Yyn0,BMW Werk Regensburg
+SGB-2025-077,SGB Gießharz-Trafo DTTH,20.0 MVA,20 kV,Dyn11,BMW Werk Regensburg
+SGB-2025-078,SGB Gießharz-Trafo (E3 - Wind),10.0 MVA,20 kV,Yyn0,BMW Werk Regensburg
+SGB-2025-079,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.63 MVA,10 kV,Dd0,Flughafen Frankfurt
+SGB-2025-080,SGB Gießharz-Trafo DTTH,1.0 MVA,15 kV,Yyn0,BMW Werk Regensburg
+SGB-2025-081,SGB Gießharz-Trafo DTTH,1.0 MVA,30 kV,Dd0,Deutsche Bahn InfraGO
+SGB-2025-082,SGB Safe (Rechenzentrum),20.0 MVA,10 kV,Yyn0,Tesla Gigafactory Berlin
+SGB-2025-083,SGB Gießharz-Trafo DTTH,0.63 MVA,36 kV,Dyn11,Tesla Gigafactory Berlin
+SGB-2025-084,SGB Gießharz-Trafo DTTH,2.5 MVA,10 kV,YNd11,Google Rechenzentrum
+SGB-2025-085,SGB Safe (Rechenzentrum),1.0 MVA,10 kV,YNd11,Tesla Gigafactory Berlin
+SGB-2025-086,SGB Gießharz-Trafo DTTH,6.3 MVA,36 kV,Dd0,BMW Werk Regensburg
+SGB-2025-087,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,10 kV,Dyn5,Intel Magdeburg
+SGB-2025-088,SGB Gießharz-Trafo DTTH (Klimaklasse C2),10.0 MVA,36 kV,Dyn11,BMW Werk Regensburg
+SGB-2025-089,SGB Gießharz-Trafo DTTH,6.3 MVA,36 kV,Dd0,BASF Ludwigshafen
+SGB-2025-090,SGB Gießharz-Trafo (E3 - Wind),0.63 MVA,30 kV,Yyn0,BMW Werk Regensburg
+SGB-2025-091,SGB Gießharz-Trafo DTTH (Klimaklasse C2),0.4 MVA,15 kV,YNd11,Google Rechenzentrum
+SGB-2025-092,SGB Gießharz-Trafo (E3 - Wind),15.0 MVA,36 kV,YNd11,Flughafen Frankfurt
+SGB-2025-093,SGB Gießharz-Trafo DTTH (Klimaklasse C2),15.0 MVA,15 kV,YNd11,Stadtwerke München
+SGB-2025-094,SGB Gießharz-Trafo DTTH,20.0 MVA,36 kV,Dyn5,BMW Werk Regensburg
+SGB-2025-095,SGB Safe (Rechenzentrum),2.5 MVA,15 kV,Dd0,Audi Ingolstadt
+SGB-2025-096,SGB Safe (Rechenzentrum),15.0 MVA,20 kV,YNd11,BASF Ludwigshafen
+SGB-2025-097,SGB Gießharz-Trafo DTTH (Klimaklasse C2),2.5 MVA,36 kV,Dd0,BASF Ludwigshafen
+SGB-2025-098,SGB Gießharz-Trafo DTTH (Klimaklasse C2),1.0 MVA,20 kV,Dd0,Flughafen Frankfurt
+SGB-2025-099,SGB Gießharz-Trafo (E3 - Wind),0.4 MVA,30 kV,Dyn5,Intel Magdeburg
+SGB-2025-100,SGB Safe (Rechenzentrum),10.0 MVA,30 kV,Dyn5,BASF Ludwigshafen
