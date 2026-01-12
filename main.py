@@ -182,7 +182,7 @@ dropdown.bind("<<ComboboxSelected>>", update_gui)
 
 # --- Info & Vorschau ---
 info_label = tk.Label(
-    app, text="---", font=("Arial", 14), justify="left", width=100, anchor="w"
+    app, text="---", font=("Arial", 13), justify="left", width=400, anchor="w"
 )
 info_label.pack(pady=10, padx=150)
 
